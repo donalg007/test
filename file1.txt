@@ -3,5 +3,6 @@ file1
 REFACTOR
 
 Feature 1....
-Added feature 3 stuff
+Added ****MAIN TRUNK CHANGES**** stuff
+Added ****MAIN MORE TRUNK CHANGES**** stuff
 
